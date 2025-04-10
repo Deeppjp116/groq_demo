@@ -2,7 +2,7 @@ Sure! Here's the full `README.md` in **Markdown format**, ready to copy into you
 
 
 
-````markdown
+
 # 🤖 Groq Jarvis Chat App (Voice + Text AI Assistant)
 
 A full-stack AI assistant built with **React** and **Node.js**, powered by the **Groq API** for real-time chat, speech-to-text, and text-to-speech functionality. Speak naturally with your assistant or type your queries — this Jarvis talks back.
