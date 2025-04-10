@@ -1,6 +1,6 @@
 Sure! Here's the full `README.md` in **Markdown format**, ready to copy into your project root:
 
----
+
 
 ````markdown
 # 🤖 Groq Jarvis Chat App (Voice + Text AI Assistant)
@@ -47,7 +47,7 @@ A full-stack AI assistant built with **React** and **Node.js**, powered by the *
 git clone https://github.com/your-username/groq-jarvis-assistant.git
 cd groq-jarvis-assistant
 ```
-````
+
 
 #### 2. Install Backend
 
